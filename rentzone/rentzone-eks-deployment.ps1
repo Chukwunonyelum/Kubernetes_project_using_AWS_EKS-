@@ -86,7 +86,7 @@ $SERVICE_ACCOUNT_NAME = "rentzone-service-account"
 $NAMESPACE = "rentzone"
 $REGION = "us-east-1"
 $CLUSTER_NAME = "rentzone-cluster"
-$AWS_ACCOUNT_ID = "651783246143"
+$AWS_ACCOUNT_ID = "054037104385"
 $SECRET_MANAGER_ACCESS_POLICY_NAME = "rentzone-secret-access-policy"
 
 # This command creates a new IAM service account in AWS, specifically for use with an EKS (Elastic Kubernetes Service) cluster.
