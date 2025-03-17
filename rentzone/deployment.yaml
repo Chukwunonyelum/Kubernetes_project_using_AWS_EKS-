@@ -25,7 +25,7 @@ spec:
             secretProviderClass: "rentzone-secret"
       containers:
       - name: rentzone
-        image: 054037104385.dkr.ecr.us-east-1.amazonaws.com/rentzone
+        image: 05403710xxxx.dkr.ecr.us-east-1.amazonaws.com/rentzone
         imagePullPolicy: Always
         ports:
         - containerPort: 80
